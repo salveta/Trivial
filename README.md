@@ -9,8 +9,9 @@ correct the question.
 The game has the name Trivial, but insn't a trivial. Of course, can be similar. 
 
 The project 'Trivial' was a final project in first course Programming Studies spepecialized in Multiplatform development.
-In 'Trivial' i have used all the features that we learned in the course (Arrays, loops, windowbuilder, buttons, database 
-and socket to connect two players simultaneously)
+In 'Trivial' i have used all the features that we learned in the course (Arrays, loops, windowbuilder, buttons, database, socket to connect two players simultaneously...)
+
+This project was made with my friend Raúl García in pair programming.
 
 Feel free to play it!!!
 
